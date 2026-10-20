@@ -74,7 +74,7 @@ A service-finding application designed to help users discover and book household
 ## 📫 Connect With Me
 
 - **GitHub:** [mohammademon393](https://github.com/mohammademon393)
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
+- **LinkedIn:** [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohammad-habibur-rahman-emon-79b25b444/?isSelfProfile=true))
 - **Portfolio:** [Visit my portfolio](YOUR_PORTFOLIO_URL)
 
 ---
